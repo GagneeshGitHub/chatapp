@@ -1,0 +1,50 @@
+/*Dealing with logo*/
+
+.logoDivision{
+    width: 100%;
+    height: 100%;
+}
+
+.logo-section{
+    width: 30vw;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
+
+/*Dealing with input fields*/
+.fields{
+    width: 30%;
+    height: auto;
+    align-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 70vh;
+}
+
+.fields input{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.fields input{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.fields button{
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    width: 30%;
+    height: 40px;
+    background-color: #800080;
+    border: 0;
+    color: white;
+}

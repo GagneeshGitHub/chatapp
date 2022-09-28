@@ -1,0 +1,44 @@
+.rightChatSection{
+    width: 30%;
+    height: 100%;
+    background-color:  white;
+    position: relative;
+    border-left: 3px solid #800080;
+    border-radius: 3px;
+}
+
+
+/*Dealing with display of users chats*/
+.userDetails{
+    margin-top: 55px;
+    display: flex;
+    width: 90%;
+    height: 100px;
+    background-color: #ffccff;
+    border-radius: 5px;
+    text-align: center;
+    position: inherit;
+    z-index: 4;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.udd1{
+    width: 30%;
+    height: 100%;
+}
+
+.udd1 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 0px 3px #800080;
+}
+
+
+.udd2{
+    width: 70%;
+    height: 100%;
+    text-align: center;
+}
+

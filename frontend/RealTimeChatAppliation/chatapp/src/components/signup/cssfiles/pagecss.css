@@ -1,0 +1,50 @@
+/*Dealing with logo*/
+
+.logoDivisionSignup{
+    width: 100%;
+    height: 100%;
+}
+
+.logo-sectionSignup{
+    width: 30vw;
+    height: auto;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    transform: translateX(-50%);
+}
+
+/*Dealing with input fields*/
+.fieldsSignup{
+    width: 40%;
+    height: auto;
+    align-content: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.fieldsSignup input{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.fieldsSignup input{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.fieldsSignup button{
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    width: 30%;
+    height: 40px;
+    background-color: #800080;
+    border: 0;
+    color: white;
+}
